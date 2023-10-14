@@ -1,5 +1,0 @@
-<h1> showing at details ... </h1>
-<% @tasks.each do |task| %>
-<%= task.details %>
-<%= task.completed %>
-<% end %>
